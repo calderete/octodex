@@ -1,0 +1,21 @@
+
+.octocat img {
+	position: relative;
+	width: 30%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: grey;
+	display: inline-block;
+	}
+
+.image-footer img {
+	clear: left;
+	width: 10px;
+	display: inline;
+	border-bottom-style: solid;
+	border-color: grey;
+
+}
+.image-caption {
+	clear: left;
+}
